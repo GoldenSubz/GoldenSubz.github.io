@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+    background: #000B25;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: "VT323", monospace;
+    text-align: center;
+}
